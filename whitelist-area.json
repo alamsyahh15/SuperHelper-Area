@@ -1,4 +1,5 @@
-[
+{
+  "area": [
     "Kecamatan Tanjung Priok",
     "Kecamatan ancol",
     "Kecamatan Angke",
@@ -215,5 +216,7 @@
     "Kecamatan ulujami",
     "Kecamatan Univeritas indonesia",
     "jakarta",
-    "DKI Jakarta"
-]  
+    "DKI Jakarta",
+    "Kota Jakarta"
+  ]
+}
